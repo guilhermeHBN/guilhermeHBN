@@ -21,9 +21,6 @@ Sou estudante de **Engenharia de Software** e estou no início da minha jornada 
 ![Git](https://img.shields.io/badge/GIT-%238633ff?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%238633ff?style=for-the-badge&logo=docker&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.com/api?username=guilhermeHBN&theme=dark&hide_border=false&border_color=8633ff&icon_color=8633ff&title_color=8633ff&text_color=FFF&show_icons=true&hide=stars)
 
 ## Próximos Passos
 - Aprofundar em conceitos avançados de backend: Design Patterns (Padrões de Projeto), Clean Architecture aplicada ao Python, TDD (Test-Driven Development) e arquitetura de microsserviços.
