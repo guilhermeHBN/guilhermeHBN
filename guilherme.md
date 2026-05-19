@@ -23,7 +23,7 @@ Sou estudante de **Engenharia de Software** e estou no início da minha jornada 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeHBN&theme=transparent&bg_color=000&border_color=8633ff&show_icons=true&icon_color=FFFF&title_color=8633ff&text_color=FFF&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.com/api?username=guilhermeHBN&theme=dark&hide_border=false&border_color=8633ff&icon_color=8633ff&title_color=8633ff&text_color=FFF&show_icons=true&hide=stars)
 
 ## Próximos Passos
 - Aprofundar em conceitos avançados de backend: Design Patterns (Padrões de Projeto), Clean Architecture aplicada ao Python, TDD (Test-Driven Development) e arquitetura de microsserviços.
